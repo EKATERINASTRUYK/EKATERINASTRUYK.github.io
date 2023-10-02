@@ -1,5 +1,5 @@
 body {
-    background-color: #E0FFFF
+    background-color: #E6E6FA
 }
 
 }
@@ -7,14 +7,17 @@ main {
     background-color: #EE82EE;
 }
 h1 {
-    color: #FF0000
+    color: #0000FF
 }
 nav {
-    background-color: #AFEEEE
+    background-color: #EEE8AA
 }
 div {
     background-color: #E6E6FA
 }
 li {
     color: #000000
+}
+h3 {
+    color: #FF0000
 }
